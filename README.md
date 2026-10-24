@@ -42,7 +42,7 @@ Python with `matplotlib` is optional (only used for PNG plots).
 ### Build with CMake
 
 ```bash
-git clone https://github.com/<your-username>/pp-collision-monte-carlo.git
+git clone https://github.com/BlankRelax/pp-collision-monte-carlo.git
 cd pp-collision-monte-carlo
 cmake -S . -B build
 cmake --build build
